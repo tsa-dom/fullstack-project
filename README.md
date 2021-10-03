@@ -1,3 +1,7 @@
+# Projektin repositorio
+
+#### [Luma-varaukset](https://github.com/lumawelhot/Luma-varaukset)
+
 # Tuntikirjanpito
 |Päivämäärä|Käytetty aika|Mitä tehty|
 |---|---|---|
