@@ -1,6 +1,12 @@
 # Projektin repositorio
 
 #### [Luma-varaukset](https://github.com/lumawelhot/Luma-varaukset)
+#### [Käyttöohjeet](https://github.com/lumawelhot/Luma-varaukset/wiki)
+
+# Palvelin
+
+#### [Staging](https://ohtup-staging.cs.helsinki.fi/luma-varaukset)
+#### [Tuotantopalvelin](https://luma-varaukset.cs.helsinki.fi/)
 
 # Tuntikirjanpito
 |Päivämäärä|Käytetty aika|Mitä tehty|
